@@ -24,7 +24,8 @@
     "node": ">= 0.8.0"
   },
   "scripts": {
-    "start": "grunt connect"
+    "start": "grunt connect",
+    "debug": "grunt connect"
   },
   "dependencies": {},
   "devDependencies": {
